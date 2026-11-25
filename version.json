@@ -2,6 +2,9 @@
   "version": "0.9.99",
   "releasedAt": "2026-11-25",
   "url": "https://github.com/jazx463684061/b-music-up/releases",
-  
-  "notes": "更新提示可同时给 GitHub 与蓝奏云两个下载入口，蓝奏提取码直接显示"
+  "lanzou": {
+    "url": "https://wwbdj.lanzoul.com/i1HHu4h8zsfi",
+    "code": "bmusic"
+  },
+  "notes": "修检查更新谎报「已是最新」：CDN 缓存陈旧时如实报旧，并清缓存重查"
 }
