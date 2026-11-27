@@ -1,10 +1,10 @@
 {
-  "version": "0.9.76",
+  "version": "0.9.79",
   "releasedAt": "2026-11-27",
   "url": "https://github.com/jazx463684061/b-music-up/releases",
   "lanzou": {
-    "url": "https://wwbdj.lanzoul.com/is7lM4heh5kd",
+    "url": "https://wwbdj.lanzoul.com/ihzaX4hgncdg",
     "code": "bmusic"
   },
-  "notes": "修复后台不能切歌；本地音乐修改引入方式为SAF；修复进本地音乐会刷新；减小切歌等待时间；沉浸页播放模式显示全称。"
+  "notes": "搜索不再被旧请求盖掉、榜单时长正常、换歌不串位置。"
 }
